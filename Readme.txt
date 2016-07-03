@@ -1,2 +1,2 @@
-This Program is to learn how to use Git. =¡£=
+This Program is to learn how to use Git. =ã€‚=
 Why should I use Git?
